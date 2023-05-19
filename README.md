@@ -1,6 +1,6 @@
-<img scr='https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif'>
+<img scr='https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif' widht='50px'>
 
-https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif
+
 - 👋 Hi, I’m @bekzod-usarovv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
