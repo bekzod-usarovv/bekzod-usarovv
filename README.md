@@ -1,6 +1,4 @@
-<img scr='https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif' widht='50px'>
-
-
+<img alt="github-contribution-grid-snake.gif" src="https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 - 👋 Hi, I’m @bekzod-usarovv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
