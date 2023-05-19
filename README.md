@@ -1,3 +1,5 @@
+<img scr='https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif'>
+
 https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif
 - 👋 Hi, I’m @bekzod-usarovv
 - 👀 I’m interested in ...
