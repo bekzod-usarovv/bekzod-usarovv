@@ -8,7 +8,7 @@ I am a back-end software engineer specializing in building high load back-end se
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-<hr>
+
 
 - 👋 Hi, I’m @bekzod-usarovv
 - 👀 I’m interested in ...
